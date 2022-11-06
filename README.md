@@ -2,8 +2,8 @@
 ### I am a Student and Web Developer!
 
 - 🔭 I’m currently working on GregNet Landing page
-- 🌱 I’m currently learning React.js
-- 🥅 2022 Goals: Learn React.js and start learning Next.js
+- 🌱 I’m currently learning React.js and Laravel
+- 🥅 2022 Goals: Learn React.js and Laravel
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
