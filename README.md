@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Filmweeb App<br>🌱 I’m currently learning Laravel and Vue.js
+🔭 I’m currently working on Filmweeb App and Steel Dart Rzeszów - Dart League Management System<br>🌱 I’m currently learning Laravel
 
 
 ## 🌐 Socials:
