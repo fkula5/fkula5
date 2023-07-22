@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fkula123) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fkula123) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,react,ts,tailwind,figma,git,github,laravel,php,postgres,mysql,postman,bash,linux,vscode,)](https://skillicons.dev)
