@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Filmweeb App and Steel Dart Rzeszów - Dart League Management System<br>🌱 I’m currently developing my skills in Laravel and Vue
+🔭 I’m currently working on DriveBooker - a system for driving schools<br>🌱 I’m currently developing my skills in Laravel and Vue<br>💻President of Students Scientific Association of computer scientists "Kod"
 
 
 ## 🌐 Socials:
