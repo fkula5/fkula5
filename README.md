@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DriveBooker - a system for driving schools<br>🌱 I’m currently developing my skills in Laravel and Vue<br>💻President of Students Scientific Association of Computer Scientists "Kod"
+🔭 I’m currently working on DriveBooker - a system for driving schools<br>🌱 I’m currently developing my skills in Laravel, Vue and Go Lang<br>💻President of Students Scientific Association of Computer Scientists "Kod"
 
 
 ## 🌐 Socials:
