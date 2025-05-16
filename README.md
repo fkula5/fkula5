@@ -6,4 +6,4 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fkula123) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,go,php,laravel,bash,docker,git,kafka,kubernetes,latex,linux,md,MySQL,phpstorm,postgres,postman,sqlite,ts,vscode,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,ts,tailwind,go,php,laravel,sqlite,mysql,postgres,bash,docker,git,kafka,kubernetes,latex,linux,md,phpstorm,postman,vscode,&perline=3)](https://skillicons.dev)
