@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Iot Monitor - A scalable backend system for managing and monitoring IoT sensors, built with Go and modern microservice architecture.<br>🌱 I’m currently developing my skills in GoLang, Kubernetes and Cloud.<br>💻President of Students Scientific Association of Computer Scientists "Kod"
+🔭 I’m currently working on Iot Monitor - A scalable backend system for managing and monitoring IoT sensors, built with Go and modern microservice architecture.<br>🌱 I’m currently developing my skills in GoLang, Kubernetes and Cloud.<br>💻President of Student Research Group of Computer Science - "Code"
 
 
 ## 🌐 Socials:
