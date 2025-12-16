@@ -1,9 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on Iot Monitor - A scalable backend system for managing and monitoring IoT sensors, built with Go and modern microservice architecture.<br>🌱 I’m currently developing my skills in GoLang, Kubernetes and Cloud.<br>💻President of Student Research Group of Computer Science - "Code"
+# <p align="center">Filip Kula</p>
 
+# <p align="center">💻 Tech Stack</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,go,php,laravel,mysql,postgres,bash,docker,kubernetes,linux,vscode" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fkula123) 
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,ts,tailwind,go,php,laravel,sqlite,mysql,postgres,bash,docker,git,kafka,kubernetes,latex,linux,md,phpstorm,postman,vscode,&perline=3)](https://skillicons.dev)
+# <p align="center">🌐Socials</p>
+<p align="center">
+    <a href="https://linkedin.com/in/fkula123">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+</p>
